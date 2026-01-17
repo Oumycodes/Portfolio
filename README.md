@@ -16,8 +16,6 @@ machine learning, and analytical thinking to drive measurable business impact.</
   - [Data web Scraper](https://github.com/Oumycodes/data-is-gold) 
 - <b>Everyone-is-a-designer</b>
   - [Frontend](https://github.com/Oumycodes/Everyone-is-a-designer)
-- <b>Sports Betting Companion 
-  - [Database,Python,SQL,React](https://github.com/mdauria0712/FINAL_SEMESTER_PIP_PROJECT)
   
 
 <h2> 🤳 Connect with me:</h2>
