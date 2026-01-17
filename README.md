@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Engineering and Data Science projects:</h2>
 
 - <b>Sports betting Companion</b>
-  - [Ai-powered Platform](https://github.com/Oumycodes/Sports-Betting-Companion))
+  - [Ai-powered-Platform](https://github.com/Oumycodes/Sports-Betting-Companion))
 - <b>Insight-Forge</b>
   - [Ai-data-analytics](https://github.com/Oumycodes/ai-data-analytics)
 - <b>My-data-alchemy</b>
