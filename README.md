@@ -1,8 +1,8 @@
 <h1>Hi, I'm Oumaima! <br/><a href="https://github.com/joshmadakor1">Data Science Student</a>, <a href="https://www.linkedin.com/in/oumaima-bouanani-idrissi-1b5697347/">Software Developer</a>
-<h2>Data Science student combining technical ML expertise with product strategy experience. Proven
+<h3>Data Science student combining technical ML expertise with product strategy experience. Proven
 track record building end-to-end data solutions, from statistical analysis and predictive modeling to
 production APIs and databases. Seeking data science internships where I can leverage Python,
-machine learning, and analytical thinking to drive measurable business impact.</h2>
+machine learning, and analytical thinking to drive measurable business impact.</h3>
 
 <h2>👨‍💻 Software Engineering and Data Science projects:</h2>
 
